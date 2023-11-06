@@ -19,7 +19,6 @@
 #include <time.h>
 #include <sys/time.h>
 #include "zboss_api.h"
-#include "zcl/zb_zcl_reporting.h"
 
 #define I2C_MASTER_SCL_IO 2        /*!< gpio number for I2C master clock */
 #define I2C_MASTER_SDA_IO 1        /*!< gpio number for I2C master data  */
